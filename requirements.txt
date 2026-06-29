@@ -1,4 +1,7 @@
-streamlit
-azure-identity
-python-dotenv
-agent-framework
+streamlit>=1.28.0
+azure-identity>=1.14.0
+python-dotenv>=1.0.0
+agent-framework>=0.1.0
+setuptools>=65.0.0
+wheel>=0.41.0
+watchdog>=2.3.0
