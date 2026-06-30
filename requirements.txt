@@ -1,6 +1,8 @@
-streamlit>=1.32.02
-pandas>=2.1.03
-azure-identity>=1.14.04
-python-dotenv>=1.0.05
-agent-framework>=0.1.06setuptools>=65.0.07wheel>=0.41.08
-watchdog>=2.3.0
+streamlit==1.39.0
+pandas==2.2.3
+azure-identity==1.20.0
+python-dotenv==1.0.1
+agent-framework>=0.1.0
+watchdog==5.0.3
+setuptools>=70
+wheel>=0.45
